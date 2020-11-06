@@ -1,0 +1,9 @@
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\bin\Debug\Lab 1A.exe.config
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\bin\Debug\Lab 1A.exe
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\bin\Debug\Lab 1A.pdb
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\obj\Debug\Lab 1A.csprojResolveAssemblyReference.cache
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\obj\Debug\Lab_1A.Form1.resources
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\obj\Debug\Lab_1A.Properties.Resources.resources
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\obj\Debug\Lab 1A.csproj.GenerateResource.Cache
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\obj\Debug\Lab 1A.exe
+C:\Users\Kathryn\Documents\School\.Net Windows-Based Client Dev\Lab 1A\Lab 1A\obj\Debug\Lab 1A.pdb
